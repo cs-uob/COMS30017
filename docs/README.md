@@ -30,12 +30,16 @@ All live sessions will be hosted on Microsoft Teams. To join the Team for this u
 
 # Weekly lecture material #
 #### Week 1: 5/10/2020 (Cian)
+
 *Background on brains.*
-1.	Why brains? Brains vs computers. What is computational neuroscience? [[video link]](https://web.microsoftstream.com/video/7a8de12a-4be1-4e79-ae1e-e080ecf81215)
-2.	Different parts of the brain.
-3.	Neuron anatomy: axons, dendrites, synapses.
-4.	Neuronal communication.
-5.	Measuring, recording and stimulating the brain.
+
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Why brains? | 19:47 [[link]](https://web.microsoftstream.com/video/7a8de12a-4be1-4e79-ae1e-e080ecf81215) | [[link]]() |
+| 2. Different parts of the brain. | |
+| 3. Neuron anatomy: axons, dendrites, synapses. | |
+| 4. Neuronal communication. | |
+| 5. Measuring, recording and stimulating the brain. | |
 
 #### Week 2: 12/10/2020 (Rahul)
 *Differential equations, numerical methods, leaky integrate-and-fire neurons.*
