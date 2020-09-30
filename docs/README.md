@@ -11,15 +11,15 @@ This is a 3rd year Computer Science and MSc unit. We will try to understand how 
 ## Teaching Assistants
 David Rios Santini | Jack Bond-Preston | Katie Marquand | Sandra Montes Olivas | Yash Agarwal
 
-### Important info
+## Important info
 All live sessions will be hosted on Microsoft Teams. To join the Team for this unit please login to the unit [Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4563857_1&course_id=_240792_1) and click on the "Join MS Teams" link on the left. You can download the MS Teams app free [here](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app), using your UoB email address. Please also use your UoB email address when joining the unit MS Team.
 
-### Links
+## Links
 - [Unit forum subreddit](https://www.reddit.com/r/coms30017_20_21): ask questions here!
 - [Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4563857_1&course_id=_240792_1): official University of Bristol landing page.
 - [Unit catalogue page](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS30017): official unit description and ILOs.
 
-### Overall structure
+## Overall structure
 - **Weeks 1-7**: Video lectures for the week released each Monday. Please watch when you can during the week. Each week will cover a different topic.
 - **Weeks 2-8**: Monday 10-11am, live Q+A session with lecturer(s). Chance to ask questions to the lecturer about the previous week's material. Hosted on Microsoft Teams.
 - **Weeks 2-7**: Wednesday 1-2pm, live bubble discussion seminars. Each bubble will be moderated by a TA or lecturer with pre-set discussion topics related to the lecture material. Hosted on Microsoft Teams.
@@ -28,7 +28,7 @@ All live sessions will be hosted on Microsoft Teams. To join the Team for this u
 - **Week 11**: Consolidation week. Catch up week for any further lecture material.
 - **Week 12**: Revision week. Preparation week for those students taking the 10-credit written exam version of unit.
 
-### Weekly lecture material ###
+# Weekly lecture material #
 #### Week 1: 5/10/2020 (Cian)
 *Background on brains.*
 1.	Why brains? Brains vs computers. What is computational neuroscience? [[video link]](https://web.microsoftstream.com/video/7a8de12a-4be1-4e79-ae1e-e080ecf81215)
