@@ -35,7 +35,7 @@ All live sessions will be hosted on Microsoft Teams. To join the Team for this u
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
-| 1. Why brains? | 19:47 [[link]](https://web.microsoftstream.com/video/7a8de12a-4be1-4e79-ae1e-e080ecf81215) | [[link]]() |
+| 1. Why brains? | 19:47 [[link]](https://web.microsoftstream.com/video/7a8de12a-4be1-4e79-ae1e-e080ecf81215) | [[link]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video1_overview.pdf) |
 | 2. Different parts of the brain. | |
 | 3. Neuron anatomy: axons, dendrites, synapses. | |
 | 4. Neuronal communication. | |
