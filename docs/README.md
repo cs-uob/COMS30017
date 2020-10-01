@@ -12,7 +12,7 @@ This is a 3rd year Computer Science and MSc unit. We will try to understand how 
 David Rios Santini | Jack Bond-Preston | Katie Marquand | Sandra Montes Olivas | Yash Agarwal
 
 ## Important info
-All live sessions will be hosted on Microsoft Teams. To join the Team for this unit please login to the unit [Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4563857_1&course_id=_240792_1) and click on the "Join MS Teams" link on the left. You can download the MS Teams app free [here](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app), using your UoB email address. Please also use your UoB email address when joining the unit MS Team.
+All live sessions will be hosted on Microsoft Teams. To join the Team for this unit please login to the unit [Blackboard page](https://www.ole.bris.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4563857_1&course_id=_240792_1) and click on the "Live Sessions" link on the left. You can download the MS Teams app free [here](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app), using your UoB email address. Please also use your UoB email address when joining the unit MS Team.
 
 ## Links
 - [Unit forum subreddit](https://www.reddit.com/r/coms30017_20_21): ask questions here!
