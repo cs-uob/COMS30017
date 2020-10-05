@@ -31,6 +31,9 @@ All live sessions will be hosted on Microsoft Teams. To join the Team for this u
 # Weekly lecture material #
 #### Week 1: 5/10/2020 (Cian)
 
+*Live Q+A intro 10:00 5/10/20*
+[[Stream link]](https://web.microsoftstream.com/video/965802d8-07bd-4160-896a-76b5604b2ae4)
+
 *Background on brains.*
 
 | Lecture | video | slides |
