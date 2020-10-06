@@ -23,16 +23,16 @@ All live sessions will be hosted on Microsoft Teams. To join the Team for this u
 - **Weeks 1-7**: Video lectures for the week released each Monday. Please watch when you can during the week. Each week will cover a different topic.
 - **Weeks 2-8**: Monday 10-11am, live Q+A session with lecturer(s). Chance to ask questions to the lecturer about the previous week's material. Hosted on Microsoft Teams.
 - **Weeks 2-7**: Wednesday 1-2pm, live bubble discussion seminars. Each bubble will be moderated by a TA or lecturer with pre-set discussion topics related to the lecture material. Hosted on Microsoft Teams.
-- **Weeks 1-7**: Friday 9-10am, live peer bubble discussion groups. Students' chance to ask each other questions and discuss the material! Hosted on Microsoft Teams.
+- **Weeks 1-7**: Thursday 5-6pm, live peer bubble discussion groups. Students' chance to ask each other questions and discuss the material! Hosted on Microsoft Teams.
 - **Weeks 9-10**: Coursework time, for those taking the 20-credit coursework version of the unit ([COMS30015](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS30015)).
 - **Week 11**: Consolidation week. Catch up week for any further lecture material.
 - **Week 12**: Revision week. Preparation week for those students taking the 10-credit written exam version of unit ([COMS30016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS30016) or COMSM0039).
 
+##Intro meeting with Q+A##
+Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/video/965802d8-07bd-4160-896a-76b5604b2ae4) [[pdf slides]](https://github.com/cs-uob/COMS30017/raw/master/intro_slides.pdf) (note the slides have been edited to correct the peer discussion timeslot.)
+
 # Weekly lecture material #
 #### Week 1: 5/10/2020 (Cian)
-
-*Live Q+A intro 10:00 5/10/20*
-[[Stream link]](https://web.microsoftstream.com/video/965802d8-07bd-4160-896a-76b5604b2ae4)
 
 *Background on brains.*
 
