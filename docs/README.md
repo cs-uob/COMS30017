@@ -28,7 +28,7 @@ All live sessions will be hosted on Microsoft Teams. To join the Team for this u
 - **Week 11**: Consolidation week. Catch up week for any further lecture material.
 - **Week 12**: Revision week. Preparation week for those students taking the 10-credit written exam version of unit ([COMS30016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS30016) or COMSM0039).
 
-##Intro meeting with Q+A##
+## Intro meeting with Q+A ##
 Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/video/965802d8-07bd-4160-896a-76b5604b2ae4) [[pdf slides]](https://github.com/cs-uob/COMS30017/raw/master/intro_slides.pdf) (note the slides have been edited to correct the peer discussion timeslot.)
 
 # Weekly lecture material #
