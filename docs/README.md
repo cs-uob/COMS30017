@@ -43,6 +43,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 3. Neuron anatomy: axons, dendrites, synapses. | 12:02 [[Stream link]](https://web.microsoftstream.com/video/b228f313-16cc-4305-8a6f-373e7ff5d84e) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video3_neuron_anatomy.pdf)
 | 4. Neuronal communication. | 14:37 [[Stream link]](https://web.microsoftstream.com/video/7eb544bf-a675-4c35-9e09-65f30016e50a) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video4_neural_communication.pdf)
 | 5. Measuring, recording and stimulating the brain. | 19:54 [[Stream link]](https://web.microsoftstream.com/video/88b6fe93-55f5-4a9a-87f1-077e4a39475a) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video5_brain_recording.pdf)
+| Problem sheet | | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/problem_sheet_week1.pdf)
 
 #### Week 2: 12/10/2020 (Rahul)
 *Differential equations, numerical methods, leaky integrate-and-fire neurons.*
