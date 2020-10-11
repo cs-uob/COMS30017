@@ -48,6 +48,16 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 #### Week 2: 12/10/2020 (Rahul)
 *Differential equations, numerical methods, leaky integrate-and-fire neurons.*
 
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Introduction to Differential Equations: Part1 | 24:48 [[Stream link]](https://web.microsoftstream.com/video/48749d2c-4f3f-49e8-8911-42aaaab461c7?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video1_overview.pdf) |
+| 2. Introduction to Differential Equations: Part2 | 17:44 [[Stream link]](https://web.microsoftstream.com/video/4cf275a2-6ff4-406b-b305-8df11ea77b2f?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video2_brain_anatomy.pdf)
+| 3. Numerical Methods for Differential Equations: Part1 | 17:43 [[Stream link]](https://web.microsoftstream.com/video/a72049e7-bf1d-4974-920b-23bd9acca4fd?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video3_neuron_anatomy.pdf)
+| 4. Numerical Methods for Differential Equations: Part2 | 08:31 [[Stream link]](https://web.microsoftstream.com/video/e0d1acd2-b68f-4082-8cee-d641829894e6?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video4_neural_communication.pdf)
+| 5. Leaky Integrate-and-Fire Model of Neuron: Part1 | 20:17 [[Stream link]](https://web.microsoftstream.com/video/c8e1358d-9b33-42c3-91ee-4e8051c442eb?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video5_brain_recording.pdf)
+| 6. Leaky Integrate-and-Fire Model of Neuron: Part2 | 16:41 [[Stream link]](https://web.microsoftstream.com/video/cdcc6025-2f45-42ab-8494-918a664dd9f3?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video5_brain_recording.pdf)
+
+
 #### Week 3: 19/10/2020 (Cian)
 *Hodgkin Huxley, modelling neurons.*
 
