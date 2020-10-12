@@ -44,6 +44,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 4. Neuronal communication. | 14:37 [[Stream link]](https://web.microsoftstream.com/video/7eb544bf-a675-4c35-9e09-65f30016e50a) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video4_neural_communication.pdf)
 | 5. Measuring, recording and stimulating the brain. | 19:54 [[Stream link]](https://web.microsoftstream.com/video/88b6fe93-55f5-4a9a-87f1-077e4a39475a) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video5_brain_recording.pdf)
 | Problem sheet | | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/problem_sheet_week1.pdf)
+| Live Q+A 12/10/20 | [[Stream link]](https://web.microsoftstream.com/video/d71dfaa5-6348-4f59-b3c4-9ab99f21433b?st=120) | |
 
 #### Week 2: 12/10/2020 (Rahul)
 *Differential equations, numerical methods, leaky integrate-and-fire neurons.*
