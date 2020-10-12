@@ -24,7 +24,7 @@ All live sessions will be hosted on Microsoft Teams. To join the Team for this u
 - **Weeks 2-8**: Monday 10-11am, live Q+A session with lecturer(s). Chance to ask questions to the lecturer about the previous week's material. Hosted on Microsoft Teams.
 - **Weeks 2-7**: Wednesday 1-2pm, live bubble discussion seminars. Each bubble will be moderated by a TA or lecturer with pre-set discussion topics related to the lecture material. Hosted on Microsoft Teams.
 - **Weeks 1-7**: Thursday 5-6pm, live peer bubble discussion groups. Students' chance to ask each other questions and discuss the material! Hosted on Microsoft Teams.
-- **Weeks 9-10**: Coursework time, for those taking the 20-credit coursework version of the unit ([COMS30015](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS30015)).
+- **Weeks 8-10**: Coursework time, for those taking the 20-credit coursework version of the unit ([COMS30015](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS30015)).
 - **Week 11**: Consolidation week. Catch up week for any further lecture material.
 - **Week 12**: Revision week. Preparation week for those students taking the 10-credit written exam version of unit ([COMS30016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS30016) or COMSM0039).
 
