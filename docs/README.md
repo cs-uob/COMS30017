@@ -61,6 +61,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 4. Numerical Methods for Differential Equations: Part2 | 08:31 [[Stream link]](https://web.microsoftstream.com/video/e0d1acd2-b68f-4082-8cee-d641829894e6?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Numerical_Methods_Part2.pdf)
 | 5. Leaky Integrate-and-Fire Model of Neuron: Part1 | 20:17 [[Stream link]](https://web.microsoftstream.com/video/c8e1358d-9b33-42c3-91ee-4e8051c442eb?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/LIF_Model_Part1.pdf)
 | 6. Leaky Integrate-and-Fire Model of Neuron: Part2 | 16:41 [[Stream link]](https://web.microsoftstream.com/video/cdcc6025-2f45-42ab-8494-918a664dd9f3?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/LIF_Model_Part2.pdf)
+|Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Problem%20Sheet.pdf)
 
 
 #### Week 3: 19/10/2020 (Cian)
