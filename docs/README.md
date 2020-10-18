@@ -67,6 +67,14 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 #### Week 3: 19/10/2020 (Cian)
 *Hodgkin Huxley, modelling neurons.*
 
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. Modelling neurons | 26:29 [[Stream link]](https://web.microsoftstream.com/video/b6c7e3f0-b6de-497b-9c2b-e5f01fc0f30e) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video1_modelling_neurons.pdf) |
+| 2. Ion channels & dendritic integration. | 23:24 [[Stream link]](https://web.microsoftstream.com/video/dff3ada0-8836-4c6f-9166-bb96ef5fbe87) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video2_ion_channels_dendritic_integration.pdf)
+| 3. Hodgkin-Huxley model. | 33:51 [[Stream link]](https://web.microsoftstream.com/video/baca50ab-e327-4884-b4ad-2c20658b112b) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/week3_video3_hodgkin_huxley.pdf)
+| 4. Analysing spike data. | 17:05 [[Stream link]](https://web.microsoftstream.com/video/32893640-1269-44e0-88a5-ae9d24320238) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video4_analysing_spike_data.pdf)
+| 5. Neural decoding. | 23:02 [[Stream link]](https://web.microsoftstream.com/video/7ea86d55-83ad-4136-8ef6-5c160d548bdd) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video5_neural_decoding.pdf)
+
 #### Week 4: 26/10/2020 (Beatriz)
 *Synapses and synaptic plasticity*
 
