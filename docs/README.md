@@ -43,8 +43,8 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 3. Neuron anatomy: axons, dendrites, synapses. | 12:02 [[Stream link]](https://web.microsoftstream.com/video/b228f313-16cc-4305-8a6f-373e7ff5d84e) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video3_neuron_anatomy.pdf)
 | 4. Neuronal communication. | 14:37 [[Stream link]](https://web.microsoftstream.com/video/7eb544bf-a675-4c35-9e09-65f30016e50a) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video4_neural_communication.pdf)
 | 5. Measuring, recording and stimulating the brain. | 19:54 [[Stream link]](https://web.microsoftstream.com/video/88b6fe93-55f5-4a9a-87f1-077e4a39475a) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/slides/week1_video5_brain_recording.pdf)
-| Problem sheet | | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/problem_sheet_week1.pdf)
-| Live Q+A 12/10/20 | [[Stream link]](https://web.microsoftstream.com/video/d71dfaa5-6348-4f59-b3c4-9ab99f21433b?st=120) | |
+| Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_1/problem_sheet_week1.pdf)
+| Live Q+A 12/10/20 | [[Stream link]](https://web.microsoftstream.com/video/d71dfaa5-6348-4f59-b3c4-9ab99f21433b?st=120) |---|
 
 #### Week 2: 12/10/2020 (Rahul)
 *Differential equations, numerical methods, leaky integrate-and-fire neurons.*
@@ -62,10 +62,14 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 5. Leaky Integrate-and-Fire Model of Neuron: Part1 | 20:17 [[Stream link]](https://web.microsoftstream.com/video/c8e1358d-9b33-42c3-91ee-4e8051c442eb?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/LIF_Model_Part1.pdf)
 | 6. Leaky Integrate-and-Fire Model of Neuron: Part2 | 16:41 [[Stream link]](https://web.microsoftstream.com/video/cdcc6025-2f45-42ab-8494-918a664dd9f3?list=studio) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/LIF_Model_Part2.pdf)
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_2/slides/Problem%20Sheet.pdf)
+| Live Q+A 19/10/20 | [[Stream link]](https://web.microsoftstream.com/video/21a03aca-b920-4dd1-aafc-0dfb62c59456) |---|
+
+
+
 
 
 #### Week 3: 19/10/2020 (Cian)
-*Hodgkin Huxley, modelling neurons.*
+*Hodgkin Huxley, modelling neurons, analysing spiking data.*
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
