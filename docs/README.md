@@ -78,7 +78,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 3. Hodgkin-Huxley model. | 33:51 [[Stream link]](https://web.microsoftstream.com/video/baca50ab-e327-4884-b4ad-2c20658b112b) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video3_hodgkin_huxley.pdf)
 | 4. Analysing spike data. | 17:05 [[Stream link]](https://web.microsoftstream.com/video/32893640-1269-44e0-88a5-ae9d24320238) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video4_analysing_spike_data.pdf)
 | 5. Neural decoding. | 23:02 [[Stream link]](https://web.microsoftstream.com/video/7ea86d55-83ad-4136-8ef6-5c160d548bdd) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video5_neural_decoding.pdf)
-|Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_3/problem_sheet_week1.pdf)
+|Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/problem_sheet_week3.pdf)
 
 #### Week 4: 26/10/2020 (Beatriz)
 *Synapses and synaptic plasticity*
