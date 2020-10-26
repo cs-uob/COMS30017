@@ -91,7 +91,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 1. What is a synapse? | 27:55 [[Stream link]](https://web.microsoftstream.com/video/9daf7a56-ac7d-43a1-8c6c-e8e397eb72ee) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video1.pdf) |
 | 2. Computational modelling of a synapse | 18:10 [[Stream link]](https://web.microsoftstream.com/video/90f1d7c1-32a0-44d0-b512-7a87b23be096) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video2.pdf) |
 | 3. Synaptic plasticity | |
-| 4. Short-term plasticity | 17:43 [Stream link] | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video4.pdf) |
+| 4. Short-term plasticity | 17:43 [[Stream link]](https://web.microsoftstream.com/video/5a62cb6a-c7a5-431b-ba6f-4e0a8f664834) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video4.pdf) |
 | 5. Long-term plasticity | |
 
 #### Week 5: 2/11/2020
