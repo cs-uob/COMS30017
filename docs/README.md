@@ -79,14 +79,17 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 4. Analysing spike data. | 17:05 [[Stream link]](https://web.microsoftstream.com/video/32893640-1269-44e0-88a5-ae9d24320238) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video4_analysing_spike_data.pdf)
 | 5. Neural decoding. | 23:02 [[Stream link]](https://web.microsoftstream.com/video/7ea86d55-83ad-4136-8ef6-5c160d548bdd) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/slides/week3_video5_neural_decoding.pdf)
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_3/problem_sheet_week3.pdf)
+| Live Q+A 26/10/20 | [[Stream link]](https://web.microsoftstream.com/video/3bbb23ab-bded-46b9-87f6-2d3266105cc8) |---|
+
+
 
 #### Week 4: 26/10/2020 (Beatriz)
 *Synapses and synaptic plasticity*
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
-| 1. What is a synapse? | | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_4/slides/Week4_Video1.pdf) |
-| 2. Computational modelling of a synapse | | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_4/slides/Week4_Video2.pdf) |
+| 1. What is a synapse? | | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video1.pdf) |
+| 2. Computational modelling of a synapse | | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video2.pdf) |
 | 3. Synaptic plasticity | |
 | 4. Short-term plasticity | |
 | 5. Long-term plasticity | |
