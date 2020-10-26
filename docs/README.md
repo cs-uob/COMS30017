@@ -86,6 +86,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 #### Week 4: 26/10/2020 (Beatriz)
 *Synapses and synaptic plasticity*
  (*Sorry the videos are a bit late, they will be coming in soon*)
+
 | Lecture | video | slides |
 | ------ | ---- | --- |
 | 1. What is a synapse? | 27:55 [[Stream link]](https://web.microsoftstream.com/video/9daf7a56-ac7d-43a1-8c6c-e8e397eb72ee) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video1.pdf) |
@@ -93,6 +94,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 3. Synaptic plasticity | |
 | 4. Short-term plasticity | 17:43 [[Stream link]](https://web.microsoftstream.com/video/5a62cb6a-c7a5-431b-ba6f-4e0a8f664834) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video4.pdf) |
 | 5. Long-term plasticity | |
+| Video of simulation of synaptic activity | 17:43 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
 
 #### Week 5: 2/11/2020
 *Hippocampus + Hopfield networks.*
