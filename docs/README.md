@@ -93,7 +93,8 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 2. Computational modelling of a synapse | 18:10 [[Stream link]](https://web.microsoftstream.com/video/90f1d7c1-32a0-44d0-b512-7a87b23be096) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video2.pdf) |
 | 3. Synaptic plasticity | 15:43 [[Stream link]](https://web.microsoftstream.com/video/3a05d7ed-4b86-4e26-b58e-be7fe8b6d27f) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video3.pdf) |
 | 4. Short-term plasticity | 17:43 [[Stream link]](https://web.microsoftstream.com/video/5a62cb6a-c7a5-431b-ba6f-4e0a8f664834) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video4.pdf) |
-| 5. Long-term plasticity | | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf) |
+| 5a. Long-term plasticity - part 1 | 26:03 [[Stream link]](https://web.microsoftstream.com/video/24f0bf1c-2517-422d-8323-88482b757bf5) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf) |
+| 5b. Long-term plasticity - part 2 (start at slide #10) | 21:31 [[Stream link]](https://web.microsoftstream.com/video/bf3502e9-b835-4ffc-a646-4b10d16c99d5) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf)  |
 | Video of simulation of synaptic activity | 3:00 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
 
 #### Week 5: 2/11/2020
