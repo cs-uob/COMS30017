@@ -97,8 +97,16 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 5b. Long-term plasticity - part 2 (start at slide #10) | 21:31 [[Stream link]](https://web.microsoftstream.com/video/bf3502e9-b835-4ffc-a646-4b10d16c99d5) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf)  |
 | Video of simulation of synaptic activity | 3:00 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
 
-#### Week 5: 2/11/2020
-*Hippocampus + Hopfield networks.*
+#### Week 5: 2/11/2020 (Laurence)
+*Hippocampus + Hopfield networks*
+| Lecture | video | slides |
+| ------ | ---- | --- |
+| 1. The Hippocampus and long-term memory | 16:32 [[Stream link]](https://web.microsoftstream.com/video/b39f509b-5a6e-4ae9-af2f-da97aa49f216) | [[pdf]]() |
+| 2. The Hippocampus and spatial navigation | 10:37 [[Stream link]](https://web.microsoftstream.com/video/e01e9a62-45bb-4535-a62a-6ffda3e852b4) | [[pdf]]() |
+| 3. Pattern Separation | 20:43 [[Stream link]](https://web.microsoftstream.com/video/35b003c6-ddf5-4f1c-80d9-b5a8d20a7b26) | [[pdf]]() |
+| 4. | 17:43 [[Stream link]](https://web.microsoftstream.com/video/cdecb5e5-3acf-4029-b46a-db5c2f6f07fc) | [[pdf]]() |
+| 5. | 26:03 [[Stream link]](https://web.microsoftstream.com/video/6a2bbc12-30d6-41a2-a208-0d07dd4f8d7e) | [[pdf]]() |
+
 
 #### Week 6: 9/11/2020 (Laurence)
 *Visual system + rate coding.*
