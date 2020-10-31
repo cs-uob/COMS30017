@@ -101,11 +101,12 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 *Hippocampus + Hopfield networks*
 | Lecture | video | slides |
 | ------ | ---- | --- |
-| 1. The Hippocampus and long-term memory | 16:32 [[Stream link]](https://web.microsoftstream.com/video/b39f509b-5a6e-4ae9-af2f-da97aa49f216) | [[pdf]]() |
-| 2. The Hippocampus and spatial navigation | 10:37 [[Stream link]](https://web.microsoftstream.com/video/e01e9a62-45bb-4535-a62a-6ffda3e852b4) | [[pdf]]() |
-| 3. Pattern Separation | 20:43 [[Stream link]](https://web.microsoftstream.com/video/35b003c6-ddf5-4f1c-80d9-b5a8d20a7b26) | [[pdf]]() |
-| 4. | 17:43 [[Stream link]](https://web.microsoftstream.com/video/cdecb5e5-3acf-4029-b46a-db5c2f6f07fc) | [[pdf]]() |
-| 5. | 26:03 [[Stream link]](https://web.microsoftstream.com/video/6a2bbc12-30d6-41a2-a208-0d07dd4f8d7e) | [[pdf]]() |
+| 1. The Hippocampus and long-term memory | 16:32 [[Stream link]](https://web.microsoftstream.com/video/b39f509b-5a6e-4ae9-af2f-da97aa49f216) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video1.pdf) |
+| 2. The Hippocampus and spatial navigation | 10:37 [[Stream link]](https://web.microsoftstream.com/video/e01e9a62-45bb-4535-a62a-6ffda3e852b4) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video2.pdf) |
+| 3. Pattern Separation | 20:43 [[Stream link]](https://web.microsoftstream.com/video/35b003c6-ddf5-4f1c-80d9-b5a8d20a7b26) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video3.pdf) |
+| 4. Hopfield networks (discrete attractors) | 12:35 [[Stream link]](https://web.microsoftstream.com/video/cdecb5e5-3acf-4029-b46a-db5c2f6f07fc) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf) |
+| 5. Continuous attractors and navigation | 12:28 [[Stream link]](https://web.microsoftstream.com/video/6a2bbc12-30d6-41a2-a208-0d07dd4f8d7e) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf) |
+| Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/problem_sheet_week5.pdf)
 
 
 #### Week 6: 9/11/2020 (Laurence)
