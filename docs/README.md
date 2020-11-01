@@ -100,6 +100,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 
 #### Week 5: 2/11/2020 (Laurence)
 *Hippocampus + Hopfield networks*
+
 | Lecture | video | slides |
 | ------ | ---- | --- |
 | 1. The Hippocampus and long-term memory | 16:32 [[Stream link]](https://web.microsoftstream.com/video/b39f509b-5a6e-4ae9-af2f-da97aa49f216) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video1.pdf) |
