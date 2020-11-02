@@ -96,7 +96,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 5a. Long-term plasticity - part 1 | 26:03 [[Stream link]](https://web.microsoftstream.com/video/24f0bf1c-2517-422d-8323-88482b757bf5) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf) |
 | 5b. Long-term plasticity - part 2 (start at slide #10) | 21:31 [[Stream link]](https://web.microsoftstream.com/video/bf3502e9-b835-4ffc-a646-4b10d16c99d5) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf)  |
 | Video of simulation of synaptic activity | 3:00 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
-|Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/raw/master/week_4/Week4-ProblemSheet.pdf)
+|Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/Week_4/Week4-ProblemSheet.pdf)
 
 #### Week 5: 2/11/2020 (Laurence)
 *Hippocampus + Hopfield networks*
