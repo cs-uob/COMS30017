@@ -85,7 +85,6 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 
 #### Week 4: 26/10/2020 (Beatriz)
 *Synapses and synaptic plasticity*
- (*Sorry the videos are a bit late, they will be coming in soon*)
 
 | Lecture | video | slides |
 | ------ | ---- | --- |
@@ -97,6 +96,8 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 5b. Long-term plasticity - part 2 (start at slide #10) | 21:31 [[Stream link]](https://web.microsoftstream.com/video/bf3502e9-b835-4ffc-a646-4b10d16c99d5) | [[pdf]](https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf)  |
 | Video of simulation of synaptic activity | 3:00 [[Stream link]](https://web.microsoftstream.com/video/c174b7f0-9557-4078-8651-2ab653f9f6a9) | |
 |Problem Sheet|---|[[pdf]](https://github.com/cs-uob/COMS30017/blob/master/Week_4/Week4-ProblemSheet.pdf)
+| Live Q+A 2/11/20 | [[Stream link]](https://web.microsoftstream.com/video/19d13289-928b-4b57-b304-4382d2b08104) |---|
+
 
 #### Week 5: 2/11/2020 (Laurence)
 *Hippocampus + Hopfield networks*
@@ -109,7 +110,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 4. Hopfield networks (discrete attractors) | 12:35 [[Stream link]](https://web.microsoftstream.com/video/cdecb5e5-3acf-4029-b46a-db5c2f6f07fc) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf) |
 | 5. Continuous attractors and navigation | 12:28 [[Stream link]](https://web.microsoftstream.com/video/6a2bbc12-30d6-41a2-a208-0d07dd4f8d7e) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf) |
 | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/problem_sheet_week5.pdf)
-| Live Q+A 09/11/20 | [[Stream link]](https://web.microsoftstream.com/video/0a74d566-a0fd-42f9-b7c6-6dcd011af2b4) |---|
+
 
 #### Week 6: 9/11/2020 (Laurence)
 *Visual system + rate coding.*
