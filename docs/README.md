@@ -116,6 +116,8 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 4. Hopfield networks (discrete attractors) | 12:35 [[Stream link]](https://web.microsoftstream.com/video/cdecb5e5-3acf-4029-b46a-db5c2f6f07fc) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf) |
 | 5. Continuous attractors and navigation | 12:28 [[Stream link]](https://web.microsoftstream.com/video/6a2bbc12-30d6-41a2-a208-0d07dd4f8d7e) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf) |
 | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_5/problem_sheet_week5.pdf)
+| Live Q+A 9/11/20 | [[Stream link]](https://web.microsoftstream.com/video/0a74d566-a0fd-42f9-b7c6-6dcd011af2b4) |---|
+
 
 
 #### Week 6: 9/11/2020 (Laurence)
@@ -129,6 +131,7 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 4. V1 and the cortical microcircuit | 15:46 [[Stream link]](https://web.microsoftstream.com/video/e09a87fb-02d4-44ad-8e26-e53be1e86477) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video4.pdf) |
 | 5. Topographic maps and sparse coding | 20:43 [[Stream link]](https://web.microsoftstream.com/video/62cf3f4a-be00-4c6c-96fb-15b81fedda3d) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video5.pdf) |
 | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_6/problem_sheet_week6.pdf)
+| Live Q+A 16/11/20 | [[Stream link]](https://web.microsoftstream.com/video/13d270da-a53b-4ba7-9e02-de1c7b35bf30) |---|
 
 #### Week 7: 16/11/2020 (Laurence)
 *Cerebellum/basal ganglia, perceptrons, Rescorla-Wagner, blocking.*
