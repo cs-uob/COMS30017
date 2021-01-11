@@ -142,3 +142,5 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 2. Cerebellar anatomy, function and microstructure  | 16:27 [[Stream link]](https://web.microsoftstream.com/video/80a2af00-b165-4c2a-81ee-082fd902cd7e) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video2.pdf) |
 | 3. Classical conditioning | 19:32 [[Stream link]](https://web.microsoftstream.com/video/50c2445b-3519-45b6-9b60-318adcde69a9) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video3.pdf) |
 | 4. Temporal difference learning and dopamine | 12:17 [[Stream link]](https://web.microsoftstream.com/video/ec61e42d-4018-474f-8918-03b79e049c24) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video4.pdf) |
+| Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/problem_sheet_week7.pdf)
+
