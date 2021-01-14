@@ -144,3 +144,6 @@ Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/vid
 | 4. Temporal difference learning and dopamine | 12:17 [[Stream link]](https://web.microsoftstream.com/video/ec61e42d-4018-474f-8918-03b79e049c24) | [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video4.pdf) |
 | Problem sheet |---| [[pdf]](https://github.com/cs-uob/COMS30017/blob/master/week_7/problem_sheet_week7.pdf)
 
+#### Revision Q&A's
+
+Laurence (week 5-7) [[Stream Link]](https://web.microsoftstream.com/video/c4cbd04d-8645-4135-879c-0fc5d3fecdcc))
