@@ -34,6 +34,13 @@ The data files needed for the coursework are in a zip file here: <https://github
 Submit your work on Blackboard, the deadline is 1pm on Friday 11th December (week 10).
 There will be drop-in support sessions on MS Teams from 2-3pm each Wednesday in weeks 8, 9 and 10.
 
+## Past exams ##
+The 2020/21 January exams with solutions can be found here:
+- [COMS30016](https://github.com/cs-uob/COMS30017/raw/master/exams/COMS30016_exam_Jan2021.pdf)
+- [COMSM0039](https://github.com/cs-uob/COMS30017/raw/master/exams/COMSM0039_exam_Jan2021.pdf)
+
+Previous years' exams can be found here (note they were a different format): <https://github.com/coms30127/exam_papers>
+
 ## Intro meeting with Q+A ##
 Recorded 10-10.45am 5/10/20. [[Stream link]](https://web.microsoftstream.com/video/965802d8-07bd-4160-896a-76b5604b2ae4) [[pdf slides]](https://github.com/cs-uob/COMS30017/raw/master/intro_slides.pdf) (note the slides have been edited to correct the peer discussion timeslot.)
 
