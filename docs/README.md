@@ -34,6 +34,11 @@ The data files needed for the coursework are in a zip file here: <https://github
 Submit your work on Blackboard, the deadline is 1pm on Friday 11th December (week 10).
 There will be drop-in support sessions on MS Teams from 2-3pm each Wednesday in weeks 8, 9 and 10.
 
+## Resit (summer 2021) coursework exam for COMS30015 ##
+The coursework description is here: <https://github.com/cs-uob/COMS30017/raw/master/coursework_resit/COMS30017_coursework_summer21.pdf>.
+The data files needed for the coursework are in a zip file here: <https://github.com/cs-uob/COMS30017/raw/master/coursework_resit/datafiles_COMS30017_coursework_summer21.zip>.
+Submit your work on Blackboard, the deadline is 13:00 on Monday 16th August 2021.
+
 ## Past exams ##
 The 2020/21 January exams with solutions can be found here:
 - [COMS30016](https://github.com/cs-uob/COMS30017/raw/master/exams/COMS30016_exam_Jan2021.pdf)
