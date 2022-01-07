@@ -1,0 +1,139 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{multicol}
+
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[english]{babel}
+\usepackage{amsmath,amsfonts,amsthm}
+
+\usepackage[a4paper]{geometry}
+\linespread{1.3}
+
+\begin{document}
+
+\noindent\large\textbf{\underline{Solutions to questions from week 3}}
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 1}
+
+ 
+
+\noindent 1. A model is an idealized representation of an object, a concept, a phenomenon, etc.
+
+\noindent 2. A phenomenological model relates to an overall result, but its components are abstract and don't necessarily correspond to any measurable quantity. In contrast, a biophysical model is built with consideration of components and processes that are measurable in reality. 
+
+\noindent 3. Benefits: Faster to simulate, in certain cases mathematical analysis is possible.
+
+Disadvantages: Can be hard to relate to biology, ignores many details that might be important.
+
+\noindent 4. - Multi-compartmental models: sections of the neuron are simulated separately, so introduces a spatial variable (e.g. distinct branches of the dendritic tree);
+
+- Firing rate: information is carried by the spike frequency, but the individual spike times are not relevant;
+
+- Hodgkin-Huxley model: more detailed than the integrate-and-fire model, includes dynamics of opening and closing of specific ion channels, although is still a point model;
+
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 2}
+
+
+\noindent 1. The corresponding ions are Na$^+$, K$^+$ and Ca$^{2+}$, all positively charged. 
+
+Because of the different concentrations of each ion type in and out of the cell, the associated current flows are:
+
+Na$^+$ inward; 
+
+K$^+$  outward;
+
+Ca$^{2+}$ inward;
+
+\noindent 2. s$_\infty$ is the steady state value 
+
+$\tau$ is the time constant of the decay
+
+\noindent 3. Point neural models don't simulate dendrites, so it ignores the spatial layout of synaptic inputs. Additionally, local voltage-dependent ion channels in dendrites can affect synaptic integration, making it non-linear.
+
+\noindent 4. A dendritic spike is a purely dendritically-generated action potential, that propagates towards the soma. However, they are much weaker than an axonal action potential and more than one dendritic spike can be summed (not all-or-none).
+
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 3}
+
+
+\noindent 1. The cell membrane.
+
+\noindent 2. Upswing is induced by sodium current, downswing by potassium current, and calcium is not present in the original HH model.
+
+\noindent 3. With increasing voltage, $m$ transitions from $0$ to $1$ (closed to open), while $h$ goes from $1$ to $0$ (open to closes. That means $m$ models the channels opening while $h$ models the deactivation. 
+
+\noindent 4. 
+
+\begin{figure}[h]
+\begin{centering}
+\includegraphics[width=0.5\textwidth]{Fig.eps}
+\end{centering}
+\end{figure}
+
+
+\noindent 5. $m$
+
+\noindent 6. - Different ion channels, and thus different spike waveform.
+
+- Membrane time constants are much faster (leakier)
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 4}
+
+
+\noindent 1. Both represent variability, however $F = \frac{\sigma^2}{\mu}$ and $CV = \frac{\sigma}{\mu}$, given that $\mu$ is the mean value and $\sigma$ is the standard deviation of the data.
+
+\noindent 2. The CV is usually applied to the \emph{inter-spike intervals} and the Fano Factor is usually applied to the \emph{spike counts}.
+
+\noindent 3. It represents average spike response to a stimulus across trials but not how variable this response is across trials.
+
+\noindent 4. $\tau$ refers to a specific time interval measured from a spike, and $s(t)$ is the value of the stimulus at time $t$. This measure is the \emph{average} over $N$ spikes of the stimulus value at a time $\tau$ \emph{before the time} $t_i$ \emph{of each spike} $i$. So it is an average value of a quantity measured in a time point relative to spikes, thus \emph{spike-triggered average}. 
+
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 5}
+
+
+\noindent 1. Decoding is the inferring of an external variable by looking at the neural response. You can reword the concept as looking at the brain activity and inferring what is causing it.
+
+\noindent 2. That the distance between the expected noise and signal+noise values is equal to the spread of the probability distributions. It is possible to discriminate correctly but not too accurately. 
+
+\noindent 3. Probability of a correct detection 
+
+P(correct) = P(signal)P(detected=signal|signal) + P(noise)P(detected=noise|noise) = 1 - [P(signal)P(detected=noise|signal) - P(noise)P(detected=signal|noise)]
+
+Given that
+
+P(signal)=P(noise)=0.5
+
+P(detected=noise|signal) $\rightarrow$ P($\mathcal{N}(\mu_{noise})<\mathcal{N}(\mu_{sig})$)
+
+P(detected=signal|noise) $\rightarrow$ P($\mathcal{N}(\mu_{sig})<\mathcal{N}(\mu_{noise})$)
+
+$$
+d' = \frac{\mu_{sig}-\mu_{noise}}{\sigma} \rightarrow \begin{cases} \mu_{sig} = d' \\ \mu_{noise} = 0 \;, \end{cases} \mbox{given } \sigma=1
+$$
+
+thus,
+
+\begin{align*}
+P(correct) &= 1 - 0.5*P(detected=noise|signal) - 0.5*P(detected=signal|noise) \\
+&= 1 -\frac{0.5}{\sqrt{2\pi}}\int_{\frac{d'}{2}}^{\infty}e^{-x^2/2}dx- \frac{0.5}{\sqrt{2\pi}}\int_{-\infty}^{\frac{d'}{2}}e^{-(x-d')^2/2}dx \\
+&= 1  -\frac{0.5}{\sqrt{2\pi}}\int_{\frac{d'}{2}}^{\infty}e^{-x^2/2}dx- \frac{0.5}{\sqrt{2\pi}}\int_{-\infty}^{\frac{-d'}{2}}e^{-u^2/2}du\\
+&= \frac{1}{\sqrt{2\pi}}\int_{-\infty}^{\frac{d'}{2}}e^{-x^2/2}dx + \frac{1}{\sqrt{2\pi}}\int_{\frac{d'}{2}}^{\infty}e^{-x^2/2}dx-\frac{0.5}{\sqrt{2\pi}}\int_{\frac{-d'}{2}}^{\infty}e^{-x^2/2}dx  - \frac{0.5}{\sqrt{2\pi}}\int_{-\infty}^{\frac{-d'}{2}}e^{-x^2/2}dx\\
+&=\frac{1}{\sqrt{2\pi}}\int_{-\infty}^{\frac{d'}{2}}e^{-x^2/2}dx=\Phi(\frac{d'}{2})\;\;.
+\end{align*}
+
+\noindent 4. Besides medical devices like protheses, there are various potential applications for care of disabled people, AI, etc.
+
+
+\end{document}
