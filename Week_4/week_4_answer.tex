@@ -1,0 +1,136 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{multicol}
+
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[english]{babel}
+\usepackage{amsmath,amsfonts,amsthm}
+
+\usepackage[a4paper]{geometry}
+\linespread{1.3}
+
+\begin{document}
+
+\noindent\large\textbf{\underline{Solutions to questions from week 4}}
+
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 1}
+ 
+
+\noindent 1. Starting as an action potential in the presynaptic neuron:
+
+- When it reaches the axon terminals, it induces the release of chemical signals called neurotransmitters;
+
+- When the neurotransmitter `glutamate' reaches the postsynaptic neuron's dendrites, it activates ionotropic receptors;
+
+- When a `AMPA' receptor is activated it opens an ionic channel through the membrane;
+
+- Ionic current induces an electrical signal in the postsynaptic neuron: the postsynaptic potential.
+
+\noindent 2. Ionotropic: open channel that conducts ionic current
+
+Metabotropic: activate secondary messengers inside the neuron that will perform other tasks
+
+\noindent 3. When an action potential reaches an axon terminal, it is not certain that there will be neurotransmitter release. So the signal transmission is a probabilistic event
+
+\noindent 4. - Non-linearity
+
+- Plasticity
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 2}
+
+
+\noindent 1. The phenomenological model is usually more mathematically treatable, as well as faster and less expensive to calculate numerically. It is also more generalizable.
+
+\noindent 2. For an inhibitory current $I_{inib}$ passing through a membrane with voltage $V(t)$:
+
+$$
+I_{inib} = \bar{g}s(t)[E_{inib}-V(t)] \;\;,
+$$
+
+where 
+
+$\bar{g}$ is the average conductance of the membrane
+
+$E_{inib}$ is the reversal potential and in this case it corresponds to the resting potential: $E_{inib} = V_{rest}$
+
+$s(t)$ is a trace of the presynaptic spike activity: if there is a spike $s(t) \rightarrow s(t)+1$, else $s(t) = e^{-t/\tau_{inib}}$
+
+\noindent 3. Excitatory
+
+\noindent 4. A circuit with a time-dependent conductor in series with a battery
+
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 3}
+
+
+\noindent 1. - Pre- and/or postsynaptic spike times
+
+- Pre- and/or postsynaptic spike rates
+
+- Cooperativity between neighbour synapses
+
+\noindent 2. Short-lasting with a duration between ms and seconds.
+
+Long-lasting with a duration of hours or even years.
+
+\noindent 3. Synaptic plasticity is generally believed to be the primary correlate of memory in neural circuits. Synapses can increase or decrease their efficacy according to activity and signals they receive, in a determined way (plasticity rules). So it can be said that synaptic efficacy registers this activity or signal (according to the specific rules of that type of synapse).
+
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 4}
+
+
+\noindent 1. Depression: not enough vesicles to release; too many vesicles were used but not yet replenished.
+
+Facilitation: local influx of Ca$^{2+}$ in the presynaptic terminal leads to temporary increase in vesicle release probability.
+
+\noindent 2. Depression: if the frequency of spikes is too high, too many vesicles are released before replenishment. Therefore the rate of vesicle replenishment defines a \emph{maximal frequency} of spikes for the occurence of vesicle release.
+
+Facilitation: after a spike there is an influx of Ca$^{2+}$, but it difuses after some time. So in order to make use of the increased release probability the next spike needs to arrive while there is still extra Ca$^{2+}$. The time of Ca$^{2+}$ availability defines a \emph{minimal frequency} of spikes that will be fast enough to facilitate.
+
+\vspace{0.5cm}
+
+\noindent\normalsize\textbf{Video 5}
+
+
+\noindent 1. If the firing of a neuron B tends to follow the firing of a neuron A repeatedly, so that there's a correlation between the firing of A and the consequent firing of B, the synapses from A to B tend to get stronger. 
+
+\noindent 2. If co-activation of A and B cause the synapses from A to B to strengthen, then increasingly A will be more efficient in firing B. If the activity of B increases, this recurrently causes the synapses to strenghen even more. So in this case the synapses would grow without control, and consequently the activity of B would also grow uncontrolled.
+
+\noindent 3. The sliding threshold.
+
+\noindent 4. The NMDA receptor, it functions as a coincidence detector between pre- and postsynaptic activity.
+
+\noindent 5. For the synaptic weight $W$:
+
+$$
+\Delta W = \sum_{i,j}F(t^i_{post}-t^j_{pre})\;\; ,
+$$
+
+$$
+ F(x) = 
+\begin{cases} 
+A_+e^{-x/\tau_+} &\mbox{if } x< 0 \\
+A_-e^{-x/\tau_-} &\mbox{if } x\geq 0 \\
+\end{cases}
+.
+$$
+
+where $t_{post}$ and $t_{pre}$ are postsynaptic and presynaptic spike times. 
+
+
+\begin{figure}[h]
+\begin{centering}
+\includegraphics[width=0.5\textwidth]{Fig.eps}
+\end{centering}
+\end{figure}
+
+\end{document}
